@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0313-super-ugly-number) |
 ## Dynamic Programming
@@ -24,5 +25,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0189-rotate-array) |
 | [0313-super-ugly-number](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0313-super-ugly-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
