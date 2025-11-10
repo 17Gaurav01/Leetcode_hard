@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0313-super-ugly-number) |
 | [0382-linked-list-random-node](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0382-linked-list-random-node) |
+| [0458-poor-pigs](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0458-poor-pigs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0264-ugly-number-ii](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0313-super-ugly-number) |
+| [0458-poor-pigs](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0458-poor-pigs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0206-reverse-linked-list) |
+## Combinatorics
+|  |
+| ------- |
+| [0458-poor-pigs](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0458-poor-pigs) |
 <!---LeetCode Topics End-->
