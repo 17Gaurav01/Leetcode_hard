@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0264-ugly-number-ii](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0313-super-ugly-number) |
+| [0435-non-overlapping-intervals](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0435-non-overlapping-intervals) |
 | [0458-poor-pigs](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0458-poor-pigs) |
 ## Heap (Priority Queue)
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0189-rotate-array) |
 | [0313-super-ugly-number](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0313-super-ugly-number) |
+| [0435-non-overlapping-intervals](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0435-non-overlapping-intervals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0044-wildcard-matching) |
+| [0435-non-overlapping-intervals](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0435-non-overlapping-intervals) |
 ## Recursion
 |  |
 | ------- |
@@ -73,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0458-poor-pigs) |
+## Sorting
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
