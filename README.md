@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0044-wildcard-matching) |
 ## Greedy
 |  |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0435-non-overlapping-intervals) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
