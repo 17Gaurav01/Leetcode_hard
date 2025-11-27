@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0264-ugly-number-ii) |
+| [0692-top-k-frequent-words](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0692-top-k-frequent-words) |
 ## Math
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0264-ugly-number-ii) |
+| [0692-top-k-frequent-words](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0692-top-k-frequent-words) |
 ## Array
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0189-rotate-array) |
 | [0313-super-ugly-number](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0313-super-ugly-number) |
 | [0435-non-overlapping-intervals](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0435-non-overlapping-intervals) |
+| [0692-top-k-frequent-words](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0692-top-k-frequent-words) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0044-wildcard-matching) |
+| [0692-top-k-frequent-words](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0692-top-k-frequent-words) |
 ## Greedy
 |  |
 | ------- |
@@ -81,8 +85,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0435-non-overlapping-intervals) |
+| [0692-top-k-frequent-words](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0692-top-k-frequent-words) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0020-valid-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0692-top-k-frequent-words) |
+## Counting
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
