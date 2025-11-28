@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0044-wildcard-matching) |
 | [0692-top-k-frequent-words](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0692-top-k-frequent-words) |
+| [2211-count-collisions-on-a-road](https://github.com/17Gaurav01/Leetcode_hard/tree/master/2211-count-collisions-on-a-road) |
 ## Greedy
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0020-valid-parentheses) |
+| [2211-count-collisions-on-a-road](https://github.com/17Gaurav01/Leetcode_hard/tree/master/2211-count-collisions-on-a-road) |
 ## Trie
 |  |
 | ------- |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0912-sort-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/17Gaurav01/Leetcode_hard/tree/master/2211-count-collisions-on-a-road) |
 <!---LeetCode Topics End-->
