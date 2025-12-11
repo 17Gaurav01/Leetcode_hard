@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0004-median-of-two-sorted-arrays) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0189-rotate-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0004-median-of-two-sorted-arrays) |
 | [0912-sort-an-array](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0110-balanced-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
