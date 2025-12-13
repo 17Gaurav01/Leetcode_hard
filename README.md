@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0110-balanced-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -142,8 +143,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0110-balanced-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
