@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0200-number-of-islands) |
 | [0313-super-ugly-number](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0313-super-ugly-number) |
 | [0435-non-overlapping-intervals](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0435-non-overlapping-intervals) |
 | [0692-top-k-frequent-words](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0692-top-k-frequent-words) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0110-balanced-binary-tree) |
+| [0200-number-of-islands](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -157,4 +159,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0701-insert-into-a-binary-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
