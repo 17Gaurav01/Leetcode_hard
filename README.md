@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0313-super-ugly-number) |
 | [0435-non-overlapping-intervals](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0435-non-overlapping-intervals) |
 | [0458-poor-pigs](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0458-poor-pigs) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/17Gaurav01/Leetcode_hard/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -45,11 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0435-non-overlapping-intervals) |
 | [0692-top-k-frequent-words](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0912-sort-an-array) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/17Gaurav01/Leetcode_hard/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Two Pointers
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0189-rotate-array) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/17Gaurav01/Leetcode_hard/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Linked List
 |  |
 | ------- |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0033-search-in-rotated-sorted-array) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/17Gaurav01/Leetcode_hard/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -171,4 +175,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0200-number-of-islands) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/17Gaurav01/Leetcode_hard/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Ordered Set
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/17Gaurav01/Leetcode_hard/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/17Gaurav01/Leetcode_hard/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
