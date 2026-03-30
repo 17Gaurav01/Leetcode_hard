@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0313-super-ugly-number) |
 | [0382-linked-list-random-node](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0382-linked-list-random-node) |
 | [0458-poor-pigs](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0458-poor-pigs) |
+| [0878-nth-magical-number](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0878-nth-magical-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0878-nth-magical-number](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0878-nth-magical-number) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/17Gaurav01/Leetcode_hard/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Search Tree
 |  |
