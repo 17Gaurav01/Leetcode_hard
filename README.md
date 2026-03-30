@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0313-super-ugly-number) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0137-single-number-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/17Gaurav01/Leetcode_hard/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/17Gaurav01/Leetcode_hard/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
