@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0044-wildcard-matching) |
 | [0435-non-overlapping-intervals](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0435-non-overlapping-intervals) |
+| [2429-minimize-xor](https://github.com/17Gaurav01/Leetcode_hard/tree/master/2429-minimize-xor) |
 ## Recursion
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0201-bitwise-and-of-numbers-range) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/17Gaurav01/Leetcode_hard/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/17Gaurav01/Leetcode_hard/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2429-minimize-xor](https://github.com/17Gaurav01/Leetcode_hard/tree/master/2429-minimize-xor) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/17Gaurav01/Leetcode_hard/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Ordered Set
 |  |
