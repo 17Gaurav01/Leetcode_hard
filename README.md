@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0137-single-number-ii) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0201-bitwise-and-of-numbers-range) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/17Gaurav01/Leetcode_hard/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
 |  |
