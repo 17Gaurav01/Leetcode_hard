@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0200-number-of-islands) |
+| [0260-single-number-iii](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0260-single-number-iii) |
 | [0313-super-ugly-number](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0313-super-ugly-number) |
 | [0435-non-overlapping-intervals](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0435-non-overlapping-intervals) |
 | [0692-top-k-frequent-words](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0692-top-k-frequent-words) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0260-single-number-iii](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0260-single-number-iii) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/17Gaurav01/Leetcode_hard/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/17Gaurav01/Leetcode_hard/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2429-minimize-xor](https://github.com/17Gaurav01/Leetcode_hard/tree/master/2429-minimize-xor) |
