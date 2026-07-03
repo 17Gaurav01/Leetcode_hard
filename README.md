@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0313-super-ugly-number) |
 | [0435-non-overlapping-intervals](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0435-non-overlapping-intervals) |
 | [0692-top-k-frequent-words](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0692-top-k-frequent-words) |
+| [0739-daily-temperatures](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0912-sort-an-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/17Gaurav01/Leetcode_hard/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/17Gaurav01/Leetcode_hard/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0739-daily-temperatures) |
 | [2211-count-collisions-on-a-road](https://github.com/17Gaurav01/Leetcode_hard/tree/master/2211-count-collisions-on-a-road) |
 ## Trie
 |  |
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0089-gray-code) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
