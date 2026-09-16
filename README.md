@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0692-top-k-frequent-words) |
 | [0739-daily-temperatures](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0912-sort-an-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/17Gaurav01/Leetcode_hard/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/17Gaurav01/Leetcode_hard/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/17Gaurav01/Leetcode_hard/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Two Pointers
@@ -221,4 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0739-daily-temperatures) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/17Gaurav01/Leetcode_hard/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/17Gaurav01/Leetcode_hard/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
