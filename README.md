@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0313-super-ugly-number) |
 | [0435-non-overlapping-intervals](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0435-non-overlapping-intervals) |
 | [0458-poor-pigs](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0458-poor-pigs) |
+| [0526-beautiful-arrangement](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0526-beautiful-arrangement) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/17Gaurav01/Leetcode_hard/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Heap (Priority Queue)
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0260-single-number-iii) |
 | [0313-super-ugly-number](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0313-super-ugly-number) |
 | [0435-non-overlapping-intervals](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0435-non-overlapping-intervals) |
+| [0526-beautiful-arrangement](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0526-beautiful-arrangement) |
 | [0692-top-k-frequent-words](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0692-top-k-frequent-words) |
 | [0739-daily-temperatures](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0912-sort-an-array) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0260-single-number-iii) |
+| [0526-beautiful-arrangement](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0526-beautiful-arrangement) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/17Gaurav01/Leetcode_hard/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/17Gaurav01/Leetcode_hard/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2429-minimize-xor](https://github.com/17Gaurav01/Leetcode_hard/tree/master/2429-minimize-xor) |
@@ -213,11 +216,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0526-beautiful-arrangement](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0526-beautiful-arrangement) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/17Gaurav01/Leetcode_hard/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Backtracking
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0089-gray-code) |
+| [0526-beautiful-arrangement](https://github.com/17Gaurav01/Leetcode_hard/tree/master/0526-beautiful-arrangement) |
 ## Monotonic Stack
 |  |
 | ------- |
